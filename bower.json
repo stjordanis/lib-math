@@ -1,0 +1,27 @@
+{
+  "name": "math",
+  "version": "0.0.0",
+  "description": "q math library",
+  "main": "math.q",
+  "dependencies": {
+    "util": "C:\\dev\\system\\library\\util"
+    },
+  "devDependencies": {
+    "test": "C:\\dev\\system\\library\\test"
+  },
+  "keywords": [
+    "q",
+    "math",
+    "q library"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+
