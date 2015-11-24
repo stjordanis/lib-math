@@ -5,8 +5,8 @@
 
 \l ..\qlib\util\util.q
 
-.util.l "..\\qlib\\test\\test.q"
-.util.l "..\\math.q"
+.util.l "../qlib/test/test.q"
+.util.l "../math.q"
 
 t) 67b9ad31-537c-3646-11cd-a8cf64653c56
  Single message
